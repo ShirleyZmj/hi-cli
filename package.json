@@ -1,0 +1,23 @@
+{
+  "name": "hi-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hi-cli": "./bin/www"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyZmj/hi-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirleyZmj/hi-cli/issues"
+  },
+  "homepage": "https://github.com/ShirleyZmj/hi-cli#readme"
+}
